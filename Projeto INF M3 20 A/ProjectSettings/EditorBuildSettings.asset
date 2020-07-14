@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ProfMatheus/Multiplayer.unity
+    guid: 097197624a356db4eafac06b0e5fba6d
+  - enabled: 1
     path: Assets/MAIN.unity
     guid: 2bf2d31bb71e71843a63baa9736e627d
   m_configObjects: {}
