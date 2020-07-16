@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Text: "! IMPORTANTE !\n------------------------------------------------------------------------------------\nBEM
     VINDO AO PROJETO :D\n------------------------------------------------------------------------------------\nCrie
     uma pasta com seu nome para poder editar os arquivos do projeto.\nA pasta deve
-    estar no diret\xF3rio ./Assets/<pasta_com_seu_nome>"
+    estar no diret\xF3rio ./Assets/<pasta_com_seu_nome>\n\n1\xBA Comit em aula."
 --- !u!222 &221109494
 CanvasRenderer:
   m_ObjectHideFlags: 0
